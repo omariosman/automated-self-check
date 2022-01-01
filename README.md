@@ -3,7 +3,9 @@
 **You need to install:**
 
 1- python
+
 2- selnium
+
 3- chrome driver
 
 **To install python:**
