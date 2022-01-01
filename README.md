@@ -35,3 +35,19 @@ Note: There is no separate version for windows 64, just install windows 32 and i
 After downloading it, put it in the same directory as python code and open the executable
 
 Now, you are ready to go :)
+
+To make this script runs everyday you can:
+
+1- Create AWS account
+
+2- Create lambda function
+
+3- Write the script inside the function handler
+
+4- Deploy
+
+5- Add trigger
+
+6- Cloudwatch
+
+7- in the schedule expression write: cron(59 11 * * ? *)
