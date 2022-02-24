@@ -1,6 +1,12 @@
 from selenium import webdriver
 import time
 
+import os
+os.startfile("chromedriver.exe")
+
+time.sleep(2)
+
+
 web = webdriver.Chrome()
 web.get('https://vaccinestatus.aucegypt.edu/CovidSelfCheck/')
 
