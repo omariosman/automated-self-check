@@ -36,7 +36,7 @@ After downloading it, put it in the same directory as python code and open the e
 
 Now, you are ready to go :)
 
-To make this script runs everyday you can:
+To make this script runs everyday you can use Task Scheduler on windows or you can:
 
 1- Create AWS account
 
